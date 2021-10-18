@@ -11,8 +11,8 @@
 val VolkmarVogel = developer {
     about {
         name = "Volkmar Vogel"
-        company = Scanbot
-        role = Engineering_Manager
+        company = Seven_Principles_Mobility_GmbH
+        role = Team_Manager
     }
     tech("Kotlin, Dart, Flutter, Android, Spring")
     links {
