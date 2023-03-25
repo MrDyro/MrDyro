@@ -11,8 +11,8 @@
 val VolkmarVogel = developer {
     about {
         name = "Volkmar Vogel"
-        company = Seven_Principles_Mobility_GmbH
-        role = Team_Manager
+        company = Vorwerk_Digital_R_&_D
+        role = People_Manager_And_Lead_Digital_Software_Development
     }
     tech("Kotlin, Dart, Flutter, Android, Spring")
     links {
