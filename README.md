@@ -12,9 +12,8 @@ val VolkmarVogel = developer {
     about {
         name = "Volkmar Vogel"
         company = Vorwerk_Digital_R_&_D
-        role = People_Manager_And_Lead_Digital_Software_Development
+        role = Head_of_Digital_R_&_D_China
     }
-    tech("Kotlin, Dart, Flutter, Android, Spring")
     links {
         twitter = "@mrdyro"
         website = "vogel.app"
